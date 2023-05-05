@@ -3,4 +3,4 @@ The ft_printf project involved recoding the printf() function in C. This project
 
 The goal of the project was to create a library that contained ft_printf(), a function that mimics the original printf(). The ft_printf() function had to handle the following conversions: cspdiuxX%
 
-During the project, I learned  about the variadic function, it's make you using a variable number of arguments in C.
+During the project, I learned  about the variadic function, it's make you using a variable number of arguments in a function.
