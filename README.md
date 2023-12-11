@@ -18,6 +18,4 @@ During the project, I learned  about the variadic function, it's make you using 
 8. **Library Creation:** Use the ar command to create the libftprintf.a library.
 10. **Submission Protocol:** Follow the submission protocol, including the use of a git repository for grading.
 
-**Version Control:** Version 10
-
-**Project Difficulty:** Moderate
+**Project Difficulty:** Easy
